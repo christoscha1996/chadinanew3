@@ -47,7 +47,7 @@ export default function ChadinaSite() {
         <ol className="mt-4 text-gray-300 list-decimal list-inside">
           <li>Get SOL in your wallet (Phantom, Solflare, etc.)</li>
           <li>Click "Connect Wallet" above</li>
-          <li>Buy $CHADINA on Raydium</li>
+          <li>Buy $CHADINA on pump.fun</li>
         </ol>
       </section>
 
