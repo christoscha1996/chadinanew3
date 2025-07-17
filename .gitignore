@@ -1,14 +1,4 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a//dev/null b/.gitignore
-index 0000000000000000000000000000000000000000..86bc4c373e9eaa76fa3b9e56ded69efc79764017 100644
---- a//dev/null
-+++ b/.gitignore
-@@ -0,0 +1,5 @@
-+node_modules/
-+build/
-+*.log
-+.env
-+.env.*
- 
-EOF
-)
+node_modules
+/build
+/.env
+.DS_Store
