@@ -11,8 +11,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "tailwindcss": "^3.4.1",
-    "autoprefixer": "^10.4.17"
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.38"
   }
 }
-Update package.json with Tailwind CSS dependencies
-
