@@ -15,12 +15,12 @@ export default function ChadinaSite() {
         </p>
         <div className="mt-6 flex justify-center gap-4">
           <a
-            href="https://raydium.io/swap/?input=sol&output=CHADINA_CONTRACT_HERE"
+            href="https://pump.fun/board?include-nsfw=true&view=grid&output=CHADINA_CONTRACT_HERE"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-yellow-500 hover:bg-yellow-600 px-4 py-2 rounded font-semibold"
           >
-            Buy on Raydium
+            Buy on pump.fun
           </a>
         </div>
       </section>
