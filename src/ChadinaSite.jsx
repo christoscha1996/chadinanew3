@@ -29,7 +29,7 @@ export default function ChadinaSite() {
         <h2 className="text-3xl font-bold text-pink-400">About Chadina</h2>
         <p className="mt-4 text-gray-300">
           Chadina is the alpha baddie and unhinged queen of the Solana memecoin scene.
-          Born from Gigachad's rib and raised by the pump, she dominates with style and confidence.
+          Born from Gigachad's xx and raised by the pump, she dominates with style and confidence.
         </p>
       </section>
 
